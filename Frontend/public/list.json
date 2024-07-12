@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "title":"Walk Into Woods",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"free",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":2,
+        "title":"Fantacy World",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"comedy",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":3,
+        "title":"Mysterios House",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":70,
+        "category":"horror",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":4,
+        "title":"Fly me To the Moon",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":50,
+        "category":"fantacy",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":5,
+        "title":"River Monster",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":100,
+        "category":"discovery",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":6,
+        "title":"Wings of Fire",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":200,
+        "category":"comedy",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":7,
+        "title":"Jennifer & Jack",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"free",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":8,
+        "title":"Game Changer",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":0,
+        "category":"free",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":9,
+        "title":"Harry Potter",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":300,
+        "category":"fantacy",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    },
+    {
+        "id":10,
+        "title":"Pirates of The Caribbean",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price":150,
+        "category":"love",
+        "img_url":"https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg"
+    }
+    
+]
